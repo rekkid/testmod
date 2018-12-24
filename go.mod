@@ -1,1 +1,1 @@
-module github.com/rekkid/testmod
+module github.com/rekkid/testmod/v2
